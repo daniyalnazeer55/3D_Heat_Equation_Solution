@@ -9,12 +9,15 @@ This project provides a Python implementation for solving and visualizing the 1D
 
 ## Prerequisites & Installation
 
-Make sure you have Python 3.7+ installed. Clone this repository and install the required dependencies using `pip`:
+Make sure you have Python 3.7+ installed and the required dependencies using `pip`:
 
 ```bash
 pip install -r requirements.txt
-
-Usage: Launch Jupyter Notebook or Jupyter Lab: Bash jupyter notebook
+```
+Usage: Launch Jupyter Notebook or Jupyter Lab: 
+```Bash
+jupyter notebook
+```
 Open the .ipynb file. Modify parameters such as thermal diffusivity (alpha), length (L),
 or the initial condition (f(x)) to explore different physical behaviors.
 Run all cells to render the 3D surface plot.
