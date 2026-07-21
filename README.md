@@ -15,6 +15,7 @@ Make sure you have Python 3.7+ installed. Clone this repository and install the 
 pip install -r requirements.txt
 
 Usage: Launch Jupyter Notebook or Jupyter Lab: Bash jupyter notebook
-Open the .ipynb file. Modify parameters such as thermal diffusivity (alpha), length (L), or the initial condition function (f(x))
+Open the .ipynb file. Modify parameters such as thermal diffusivity (alpha), length (L),
+or the initial condition function (f(x))
 in the configuration cells to explore different physical behaviors.
 Run all cells to render the 3D surface plot.
